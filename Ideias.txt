@@ -4,14 +4,13 @@ Tenis gerador de Energia progress
 	Artigo
 	Apresentação
 Bruto: { Ideias:
-		Jaqcues e pierre Curie
-		Comparação entre materiais piezoelétricos
+		Jaqcues e pierre Curie Inventores
+		Comparação entre materiais piezoelétricos: [ Exemplos de Materiais Piezoelétricos: [PZT(Chumbo)],
+								         Material mais piezoeletrico, material mais viável / problemáticas de outros materiais, 
+									   Material usado de teste
+									 ],
 		Problemática de energia limpa 
 		referencias ONU (ODS número 7)
-
-
-
-
 	 }
 		Conhecimento Geral
 		
